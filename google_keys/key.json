@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "boosta-357809",
+  "private_key_id": "000be81f551ccaa252e9e1b747464a97a8d0a404",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCNjuG2EXaydliS\nPfFKtCQCcMuF2P5IcHbhkhVAIcrE/ZSHrh0WfH1Ro4DrbqRo2DZZ9pOJ+QjT8Y/5\nB0oz1IZqR9LZoYMxQkXDNEKFl+tXVSQMA1Y27jrkN1S50H7HdP2sfhi691sSdwsk\nfzVrpBKbEsb59fsyAhhnroWqexjEBzAO2w8eCF9yjroCDkwsyhfvaQkGV0wwuIP2\nB//fzIHKQmLUkQvZQ4mkAi1MA06Pcaq0NLEUHrqZivpaJsi9Nbm1vfKoYB8pkf/l\nFk6YYjnAjQfi0OzEdeZDXqpZt1RyzIm36cUqddMPR9PVv06cthojF+Prxi+shvDw\n4MPFp1DHAgMBAAECggEAFz5Tz3p0m/8UsgabvSFxHDl7IaIstqZIzucWuC4URl5A\n6jprqkqMpUAMphvHwTNnUURMm4YZrftnIYPR6krGO2NJutRrX0Y7gD7vgVIdoXxo\na9SMbn6Viu2O6ufSOVv7XzxhQSnmeVS0rqx4kBEjwPTHWTnLoj131mZwqjqGKYGq\nHV1CHAfKFKukmowtp8PKaW5sBLCLmMuRd2EaiZiQAz6WtOTOokFuRuAECvpnqRKD\nFSN8gwnts6YdkwIY8h1S10SjI1/wg1hEZfsuTTL39r6UkQMSgNI6pjZ1j1SXTK9o\ngGaAWFm+6GjN3WWcrvtwFNReVd9R9ZYwksvyhZe0IQKBgQC+zZlRScsPiomTuDbb\n/09u9J2x410SX35nKlbMbqQo+Q/ZfadKGiNFWxLNxG85wcTJURfpHbIuXGFGjJ1H\n1Bd2jbtpM2VDKCSr3MLfXmqtwHD7nQ3GccqXTdRT/BVGBzPQ/yOKhNLW4Yekr1FZ\n2KK0y5ADcnX9S6LfjKtgTzSh9wKBgQC97ZqJb/4TouTiY2uqmzXC24PRb7WWBImK\nLnoVF/fNOW3ecn8wy4TWJ9Adlb8T41fypJd48d6mIc8nXq9y9wFDi/BN72AogZZA\no1lZ8xFIijgWp4vTm+ZkAJ+umz6ZzAvuIk4S5en9rHwdlq5sjmdM4Tz1nfszVRBc\nQfaBSDITsQKBgAPOH9+iJB2UOrgqdVWf2tqwoDB7A1EpfGDcVEzRbA6xIOLKgbqV\nmNx6O37FCx7QwXbuWha5E+OezgXVKhHTpgAkRXeModlcBJc02OIRhPkgHGC4Oh0a\nCdtInxJptZbm796cJ/5MNdQ5PTZIlMvA6UXHxYB8GORLTN0+dfB+w+LzAoGAPCMS\nrnfOfEs0q9YNDj0M3cEB0PvNBE41epJSx4EKTmnjtu6MBVg7nE+I3wU+Nj7i5wpk\nh8AV3oaQAAhEB2Pce5XApfyodsrpV1ghf5CuJUjWj53HcV5IqdtktDWlsa7hDCrC\ni8tOtqq5teizG95PKRGcaqz2D//cKUodkjvY11ECgYEAu4J1XBjNwbodE+fDYDHo\nPgIH53qYgxIOW75uaRSiutcN8FhF0LiUpSz340DweGQAUOe93cwX0wejHlMuBbeZ\nVi2yt3Xr0A8UuKVYzJCZIFTj5vQxRu3pszz8PA5ylKXvoo8EyaRQVi+Ar72qCYaT\nw9GQ6A16k0Ba6aomhltC4lg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "boosters-crew@boosta-357809.iam.gserviceaccount.com",
+  "client_id": "113284886267361902034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boosters-crew%40boosta-357809.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
